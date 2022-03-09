@@ -3,6 +3,8 @@
 <br>
   A Web-Crawler that lets the user enter a URL and then it goes through all the links and emails on it and stores them in a list. It then goes through all of those links and does   the same thing until it either hits a radius of 2 or the timer for the program runs out.
 <br>
+<br>
+<br>
 <b>Project 3: Email Notifier</b><br>
 <br>
    Upon starting the program, a custom JDialogBox will come up and have the user enter the IMAP server name,

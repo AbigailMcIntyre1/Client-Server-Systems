@@ -43,4 +43,5 @@
  The Hashtable of Users in the Server is stored on a text file. The Users save themselves and the Hashtable saves itself each time a new user 
  registers or a new buddy is added. The server will load from this file if it exits and loads back up again.
 <br>
+<br>
  More to be added in the future.
